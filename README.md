@@ -22,10 +22,8 @@
 	</tr>
 	<tr>
 		<td><img
-			src="https://blogfiles.pstatic.net/MjAxOTA1MjhfMTk2/MDAxNTU4OTcxOTk4NTE1.ZBIzOtWTr8dNy2ZYGAvxx56-pnt76FhjBO8BZtPa8_kg.9JiS1TyW2P4cuCP95GEJY9m_CWopHbjVuWeRew9Srxsg.PNG.soccerson/3.png"
-			width="950px" /></td>
+			src="https://blogfiles.pstatic.net/MjAxOTA1MjhfMTk2/MDAxNTU4OTcxOTk4NTE1.ZBIzOtWTr8dNy2ZYGAvxx56-pnt76FhjBO8BZtPa8_kg.9JiS1TyW2P4cuCP95GEJY9m_CWopHbjVuWeRew9Srxsg.PNG.soccerson/3.png" width="950px" /></td>
 	</tr>
-	
 	<tr align="center">
 		<td colspan="2"><h2>프로젝트 구조</h2></td>
 	</tr>
@@ -39,7 +37,6 @@
 			src="https://blogfiles.pstatic.net/MjAxOTA1MjhfODMg/MDAxNTU4OTcxOTk4NDUx.wurS8GfDWdKE48wQXcquqZh3vplfDe3XPTb9ARXDV2sg.MY2aC3bpMVEVSrz7GtuJShPK4vilX0eoe1yXfbJRMKUg.PNG.soccerson/5.png"
 			width="950px" /></td>
 	</tr>
-	
 	<tr align="center">
 		<td colspan="2"><h2>프로젝트 UI 및 기능소개</h2></td>
 	</tr>
