@@ -4,10 +4,10 @@
 	<li>개발 환경 : STS4, JavaEE, MariaDB, OracleXE</li>
 	<li>나의 개발 파트</li>
 	<ul>
-		<li>관리자 페이지</li>
+		<li>AOP 기반 관리자 페이지</li>
 		<li>회원가입</li>
-		<li>로그인/로그아웃 및 aop처리</li>
-		<li>Q&A </li>
+		<li>AOP 기반 로그인/로그아웃</li>
+		<li>Q&A 게시판</li>
 	</ul>
 </ul>
 <table>
